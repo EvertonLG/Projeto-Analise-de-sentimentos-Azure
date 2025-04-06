@@ -1,0 +1,25 @@
+🔍 Análise de Sentimentos com Azure AI Language Studio
+Este projeto utiliza o Azure AI Language Studio para realizar a análise de sentimentos em textos em linguagem natural. O objetivo é identificar se um determinado conteúdo possui um sentimento positivo, negativo, neutro ou misto, com base nas técnicas de processamento de linguagem natural (NLP) fornecidas pela plataforma da Microsoft.
+
+A análise de sentimentos é uma técnica essencial para entender a opinião dos usuários, clientes ou do público em geral, e pode ser aplicada em diversos contextos, como feedbacks de produtos, avaliações de serviços, redes sociais e muito mais.
+
+🧠 Como funciona?
+Com o Language Studio, é possível importar textos, aplicar o modelo de análise de sentimentos e visualizar os resultados por meio de uma interface intuitiva, sem a necessidade de codificação. O modelo retorna a classificação do sentimento para cada sentença, bem como os escores de confiança.
+
+📄 Exemplos de Sentenças Analisadas:
+"Estou muito satisfeito com o atendimento recebido!" → Sentimento: Positivo
+
+"O produto chegou quebrado e com atraso." → Sentimento: Negativo
+
+"A entrega foi feita. Ainda não testei o produto." → Sentimento: Neutro
+
+"Gostei da qualidade, mas o preço é um pouco alto." → Sentimento: Misto
+
+🚀 Benefícios do uso do Azure AI:
+Integração com outras soluções da Azure
+
+Interface amigável e intuitiva
+
+Modelos prontos e de alta qualidade
+
+Resultados rápidos e com escores de confiabilidade
